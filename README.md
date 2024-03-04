@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on cool python projects
 - 📫 You can reach me via email: mail@normanalie.fr
 
-- 📂 My CV: [CV Norman ALIE](./CVNormanALIE2024.pdf)
+- 📂 My resume: [CV Norman ALIE](./CVNormanALIE2024.pdf)
